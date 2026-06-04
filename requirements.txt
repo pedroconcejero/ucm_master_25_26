@@ -1,7 +1,10 @@
 dash
+dash_core_components
+dash_html_components
 folium
 geopandas
 matplotlib
+mapclassify
 notebook
 numpy
 pandas
